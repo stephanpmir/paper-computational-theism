@@ -20,4 +20,4 @@ Planck length ℓ_P  = 1.616e-35 m
 Planck time   t_P  = 5.391e-44 s
 ... (full table in paper)
 
-For full reproducibility, see the Zenodo archive: doi.org/10.5281/zenodo.13869183
+For full reproducibility, see the Zenodo archive: doi.org/10.5281/zenodo.17804024
